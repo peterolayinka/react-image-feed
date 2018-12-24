@@ -22,10 +22,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.peterolayinka.image_feed"
+      "bundleIdentifier": "com.peterolayinka.imagefeed"
     },
     "android": {
-        "package": "com.peterolayinka.image_feed"
+        "package": "com.peterolayinka.imagefeed"
     }
   }
 }

@@ -21,7 +21,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.peterolayinka.image_feed"
+    },
+    "android": {
+        "package": "com.peterolayinka.image_feed"
     }
   }
 }
